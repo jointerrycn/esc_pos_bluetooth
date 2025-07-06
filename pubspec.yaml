@@ -13,9 +13,10 @@ dependencies:
   esc_pos_utils: ^1.1.0
   # esc_pos_utils:
   # path: ../esc_pos_utils
-  esc_pos_bluetooth:
+  flutter_bluetooth_basic:
     git:
-      url: https://github.com/jointerrycn/esc_pos_bluetooth.git
+      url: https://github.com/jointerrycn/flutter_bluetooth_basic.git
+
 
 dev_dependencies:
   flutter_test:
